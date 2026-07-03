@@ -9,7 +9,7 @@ var message = new Array();
 message[0]="T'es sûr?";
 message[1]="S'il te plaît 😭";
 message[2]="IO , moa ee🥺";
-message[3] = "Ao fa hividianako fleur sy boky🤗";
+message[3] = "Mais arrête d'appuyer ici🙄";
 message[4] ="Mais etudie😒"
 message[5]="C'est ta derniere decision 😑?";
 

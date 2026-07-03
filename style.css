@@ -1,0 +1,26 @@
+.super-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding: 35px 40px;
+    border-radius: 15px;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+.slot{
+    position: relative;
+    perspective: 1000px;
+}
+.slot div{
+    position: absolute;
+    user-select: none;
+}
